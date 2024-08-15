@@ -1,0 +1,23 @@
+.left_container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.myClass{
+    width: 40%;
+    margin: 1rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+.card-header{
+    font-weight: bolder;
+    width: 100%;
+}
+.myClass h5{
+    font-weight: 600;
+    font-size: 1.8rem;
+}
